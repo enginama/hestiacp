@@ -887,4 +887,8 @@ $LANG['ar'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'إرسال إشعار بالبريد الإلكتروني عند تثبيت التحديث',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'احفظ سجل تثبيت التحديث',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'أرسل سجل تثبيت التحديث بالبريد الإلكتروني',
 );

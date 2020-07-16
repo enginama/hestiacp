@@ -880,4 +880,8 @@ $LANG['cz'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Po instalaci aktualizace odešlete e-mailové upozornění',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Uložte instalační protokol aktualizace',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Pošlete instalační protokol aktualizace e-mailem',
 );

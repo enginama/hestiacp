@@ -880,4 +880,8 @@ $LANG['id'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Kirim pemberitahuan email ketika pembaruan telah diinstal',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Simpan pembaruan log instalasi',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Kirim pembaruan log instalasi melalui email',
 );

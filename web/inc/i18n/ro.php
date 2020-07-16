@@ -879,4 +879,8 @@ $LANG['ro'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Trimiteți o notificare prin e-mail atunci când a fost instalată o actualizare',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Salvați jurnalul de instalare de actualizare',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Trimiteți jurnalul de instalare de actualizare prin e-mail',
 );

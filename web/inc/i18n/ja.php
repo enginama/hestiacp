@@ -879,4 +879,8 @@ $LANG['ja'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => '更新がインストールされたときにメール通知を送信する',
+    'SYSTEM_UPGRADE_SAVE_LOG' => '更新インストールログを保存する',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'メールで更新インストールログを送信する',
 );

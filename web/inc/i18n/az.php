@@ -851,4 +851,8 @@ $LANG['az'] = array(
     'backend server' =>  'Backend Server',    
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Yeniləmə quraşdırıldıqda e-poçt bildirişini göndərin',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Yeniləmə quraşdırma jurnalını qeyd edin',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Yeniləmə quraşdırma jurnalını elektron poçtla göndərin',
 );

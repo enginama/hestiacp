@@ -877,4 +877,8 @@ $LANG['de'] = array(
     
     'backend server' =>  'Backend Server',
     
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Senden Sie eine E-Mail-Benachrichtigung, wenn ein Update installiert wurde',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Speichern Sie das Update-Installationsprotokoll',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Senden Sie das Update-Installationsprotokoll per E-Mail',
 );

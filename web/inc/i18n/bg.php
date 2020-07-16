@@ -877,5 +877,9 @@ $LANG['bg'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Известие по имейл, когато е инсталирана актуализация',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Запазете дневниците за актуализация',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Изпратете дневника за инсталиране на актуализацията по имейл',
 );
 

@@ -877,4 +877,8 @@ $LANG['ka'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'ელ.ფოსტის გაგზავნის გაგზავნა გაგზავნისთანავე',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'შეინახეთ განახლების ინსტალაციის ჟურნალი',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'გაგზავნის განახლების ინსტალაციის ჟურნალი ელ.ფოსტით',
 );

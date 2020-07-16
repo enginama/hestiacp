@@ -850,4 +850,8 @@ $LANG['ua'] = array(
     //Dowload Backup
     'BACKUP_DOWNLOAD_SCHEDULED' => 'Download for Backup has been scheduled.',
     'backend server' =>  'Backend Server',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Send email notification when an update has been installed',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Save update installation log',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Send update installation log by email',
 );

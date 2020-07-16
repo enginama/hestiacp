@@ -880,4 +880,8 @@ $LANG['vi'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Gửi email thông báo khi bản cập nhật đã được cài đặt',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Lưu nhật ký cài đặt cập nhật',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Gửi nhật ký cài đặt cập nhật qua email',
 );

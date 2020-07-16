@@ -3,6 +3,17 @@ All notable changes to this project will be documented in this file.
 
 ## [CURRENT] - Development
 ### Features
+- The software update procedure will now perform a system health check prior to installation and repair missing environment variables.
+- Installs from branches other than `release` will provide verbose output and logging to aid in debugging and development.
+- Administrators now have control over software update notifications through the following settings in `$HESTIA/conf/hestia.conf`:
+    - `UPGRADE_SAVE_LOG` = Save log output to installation backup directory
+    - `UPGRADE_SEND_EMAIL_LOG` = Sends installation log output to admin email address
+    - `UPGRADE_SEND_NOTIFICATION` = Sends update installed notification to web UI
+    - `UPGRADE_SEND_EMAIL` = Sends an email notification to admin email address
+
+### Bugfixes
+- Fixed an issue where template files were not correctly backed up during upgrades.
+- Improved version detection during upgrades.
 
 ### Bugfixes
 

@@ -882,4 +882,8 @@ $LANG['el'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Αποστολή ειδοποίησης μέσω email όταν έχει εγκατασταθεί μια ενημέρωση',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Αποθήκευση αρχείου καταγραφής εγκατάστασης ενημέρωσης',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Αποστολή καταγραφής εγκατάστασης ενημέρωσης μέσω email',
 );

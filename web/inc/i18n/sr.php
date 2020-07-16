@@ -880,4 +880,8 @@ $LANG['sr'] = array(
     'traffic' => 'Traffic',
     'disk' => 'Disk',
     
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Пошаљите обавештење е-поштом када је ажурирање инсталирано',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Сачувајте дневник инсталације ажурирања',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Пошаљите дневник инсталације ажурирања е-поштом',
 );

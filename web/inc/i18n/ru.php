@@ -911,4 +911,8 @@ $LANG['ru'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Отправить уведомление по электронной почте, когда обновление было установлено',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Сохранить журнал установки обновлений',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Отправить журнал установки обновления по электронной почте',
 );

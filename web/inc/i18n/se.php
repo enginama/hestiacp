@@ -878,4 +878,8 @@ $LANG['se'] = array(
     'backend server' =>  'Backend Server',
     'traffic' => 'Traffic',
     'disk' => 'Disk',
+
+    'SYSTEM_UPGRADE_SEND_NOTIFICATION_EMAIL' => 'Skicka e-postmeddelande när en uppdatering har installerats',
+    'SYSTEM_UPGRADE_SAVE_LOG' => 'Spara uppdateringsinstallationslogg',
+    'SYSTEM_UPGRADE_SEND_EMAIL_LOG' => 'Skicka uppdateringsinstallationslogg via e-post',
 );
